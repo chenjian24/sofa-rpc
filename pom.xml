@@ -40,6 +40,7 @@
         <!-- Other Code -->
         <module>example</module>
         <module>test</module>
+        <module>dfa-all</module>
     </modules>
 
     <dependencyManagement>
