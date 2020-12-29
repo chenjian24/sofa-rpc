@@ -40,7 +40,7 @@
         <!-- Other Code -->
         <module>example</module>
         <module>test</module>
-        <module>dfa-all</module>
+        <module>dfa-rpc-all</module>
     </modules>
 
     <dependencyManagement>
